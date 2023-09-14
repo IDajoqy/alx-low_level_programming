@@ -13,9 +13,9 @@
     for (j = 0; j <= 14; j++)
     {
     if (j >= 10)
-   _putchar((j / 10) + '0'); /* Print the tens place digit */
+    _putchar((j / 10) + '0'); /* Print the tens place digit */
     _putchar((j % 10) + '0'); /* Print the ones place digit */
     {
-   _putchar('\n');
+    _putchar('\n');
     }
-  }
+}
