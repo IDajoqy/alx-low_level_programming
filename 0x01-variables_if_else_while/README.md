@@ -1,4 +1,4 @@
-[All files will be compiled on Ubuntu 20.04 LTS![image](https://user-images.githubusercontent.com/105258746/189422562-d96e8ff1-5c0f-4e6e-8be1-1a0172a93910.png) using gcc]
+[Alqclearl files will be compiled on Ubuntu 20.04 LTS![image](https://user-images.githubusercontent.com/105258746/189422562-d96e8ff1-5c0f-4e6e-8be1-1a0172a93910.png) using gcc]
 
 # Project on 0x01. C - Variables, if, else, while
 
